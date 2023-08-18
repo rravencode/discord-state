@@ -1,0 +1,2 @@
+# Durum Ayarlama Botu
+Kurulumu çok basit, klasik adımlar ve ardından `./src/config.json` dosyasına gelip `state` olan değeri istediğiniz şekilde değiştirin ve ardından `npm run start` diyerek botu başlatın.
