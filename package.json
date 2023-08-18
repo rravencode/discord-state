@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node src"
+  },
   "dependencies": {
     "discord.js": "^14.13.0"
   }
